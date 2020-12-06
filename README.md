@@ -1,2 +1,2 @@
 # Build
-Building orders beta 1
+Building orders to Beta 2
